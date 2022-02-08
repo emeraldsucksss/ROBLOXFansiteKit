@@ -1,4 +1,4 @@
-# ROBLOXFansiteKit
+# ROBLOX Fansite Kit
 These are the files from the ROBLOX Fansite kit.
 This is not mine, and this is the 2011 version. not the 2009 one.
 https://blog.roblox.com/2009/04/roblox-fansite-kit/ 
